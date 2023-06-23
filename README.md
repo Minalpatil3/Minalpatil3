@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minal Patil</h1>
 <h3 align="center">A passionate Cyber Security Analyst and Data Analyst</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=minalpatil3&label=Profile%20views&color=0e75b6&style=flat" alt="minalpatil3" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=minalpatil3&label=Profile%20views&color=0e75b6&style=flat" alt="minalpatil3" /> </p>
 
 - 🔭 I’m currently doing **Cyber Security Bootcamp**
 
